@@ -1,4 +1,19 @@
-/node_modules
-# Turborepo
-.turbo
-.vscode
+# Flutter
+apps/mobile/.dart_tool/
+apps/mobile/build/
+apps/mobile/.flutter-plugins
+apps/mobile/.flutter-plugins-dependencies
+apps/mobile/.env
+apps/mobile/lib/core/env/env.g.dart
+
+# Go
+apps/server/server
+apps/server/.env
+
+# Docker
+.docker/
+
+# General
+.DS_Store
+*.log
+*.env

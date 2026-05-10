@@ -1,8 +1,0 @@
-/node_modules
-/build
-/dist
-/.env
-/.env.local
-/logs
-/coverage
-tsconfig.tsbuildinfo
